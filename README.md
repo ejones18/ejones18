@@ -19,7 +19,7 @@
 <img align="left" alt="JavaScript" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Jupiter Notebook" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 
-<br>
+<br> <br>
 
 📫 &nbsp;*Get in touch*: <br>
 &emsp;&emsp;[<img alt="LinkedIn" width="48px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-1.svg"/>](https://www.linkedin.com/in/ejjones18/)
