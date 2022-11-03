@@ -3,8 +3,8 @@
 ## Hello there, I'm Ethan Jones - assistant data analyst at Sheffield Solar and undergraduate computer science student at The University of Sheffield. ##
 
 ### Current interests ###
-🔭 &nbsp;*Currently working on*: Leading the Yorkshire Azure User Group, AutoML for Imagery within Azure Machine Learning & data analysis using open-source Python.<br>
-🌱 &nbsp;*Currently learning*: E2E Computer Vision workloads & Data Science on Azure.<br>
+🔭 &nbsp;*Currently working on*: Leading the Yorkshire Azure User Group, data analysis using open-source Python and uncertainty estimation in computer vision workloads.<br>
+🌱 &nbsp;*Currently learning*: E2E Computer Vision workloads, Data Science on Azure & Pythonic web applications developed with Streamlit.<br>
 🤔 &nbsp;*Currently looking for*: I'm looking for people to collaborate with on data-orientated projects; preferably with an ML focus. Please feel free to get in touch!<br>
 <br>
 
