@@ -1,6 +1,6 @@
 <div align="center"><img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2500&h=320&q=80"/></div>
 
-## Hello there, I'm Ethan Jones - assistant data analyst at Sheffield Solar and undergraduate computer science student at The University of Sheffield. ##
+## Hello there, I'm Ethan Jones - data analyst at Sheffield Solar and undergraduate computer science student at The University of Sheffield. ##
 
 ### Current interests ###
 🔭 &nbsp;*Currently working on*: Leading the Yorkshire Azure User Group, data analysis using open-source Python and uncertainty estimation in computer vision workloads.<br>
