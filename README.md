@@ -3,8 +3,8 @@
 ## Hello there, I'm Ethan Jones - data analyst at Sheffield Solar and undergraduate computer science student at The University of Sheffield. ##
 
 ### Current interests ###
-🔭 &nbsp;*Currently working on*: Leading the Yorkshire Azure User Group, uncertainty estimation in computer vision workloads & IoT projects using the ESP32S3 and C++.<br>
-🌱 &nbsp;*Currently learning*: E2E Computer Vision workloads, C++, the art of software testing & Java <br>
+🔭 &nbsp;*Currently working on*: Leading the Yorkshire Azure User Group, uncertainty estimation in computer vision workloads & IoT projects using the ESP32S3.<br>
+🌱 &nbsp;*Currently learning*: The art of software testing using Java, C++, Fortran & productionising machine learning models <br>
 🤔 &nbsp;*Currently looking for*: I'm looking for people to collaborate with on data-orientated projects; preferably with an ML focus. Please feel free to get in touch!<br>
 <br>
 
