@@ -3,8 +3,8 @@
 ## Hey there, I'm Ethan! Here's a little about me and my current work before you dive further into my profile... ##
 
 ### Current interests ###
-🔭 &nbsp;*Currently working on*: Leading the Yorkshire Azure User Group, computer vision workloads for healthcare & IoT projects using the ESP32S3.<br>
-🌱 &nbsp;*Currently learning*: C++, how to relax for a change as well as the process of productionising machine learning models <br>
+🔭 &nbsp;*Currently working on*: Leading the Yorkshire Azure User Group, IoT projects using the ESP32S3 & retrieval augmented generation using Azure OpenAI.<br>
+🌱 &nbsp;*Currently learning*: C++, the process of productionising machine learning models and responsible computer vision! <br>
 🤔 &nbsp;*Currently looking for*: I'm looking for people to collaborate with on ML-orientated projects. Please feel free to get in touch!<br>
 <br>
 
