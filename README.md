@@ -1,8 +1,10 @@
 <div align="center"><img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2500&h=320&q=80"/></div>
 
-## Hey there, I'm Ethan! Here's a little about me and my current work before you dive further into my profile... ##
+## Hey there, I'm Ethan! 
 
-### Current interests ###
+### Here's a little about me and my current work before you dive further into my profile... ##
+
+#### Current interests ####
 🔭 &nbsp;*Currently working on*: Leading the Yorkshire Azure User Group, developing content around MLOps maturity on Azure using Azure Machine Learning as well as architecting and developing solutions for scalable call transcription on Azure.<br>
 🌱 &nbsp;*Currently learning*: Enterprise best practice for productionising machine learning models as well as implementing responsible computer vision! <br>
 <br>
