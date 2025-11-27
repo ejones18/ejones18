@@ -5,8 +5,8 @@
 ### Here's a little about me and my current work before you dive further into my profile... ##
 
 #### Current interests ####
-🔭 &nbsp;*Currently working on*: Leading the Yorkshire Azure User Group, developing content around MLOps maturity on Azure using Azure Machine Learning as well as architecting and developing solutions for scalable call transcription on Azure.<br>
-🌱 &nbsp;*Currently learning*: Enterprise best practice for productionising machine learning models as well as implementing responsible computer vision! <br>
+🔭 &nbsp;*Currently working on*: Leading the Yorkshire Azure User Group, developing content around MLOps maturity on Azure using Azure Machine Learning as well as improving uncertainty and accuracy of machine learning models through methods such as conformal prediction.<br>
+🌱 &nbsp;*Currently learning*: Intergrating productionised machine learning models with agentic solutions using ACA & MCP servers.<br>
 <br>
 
 💾 &nbsp;*Languages and Tools*:
