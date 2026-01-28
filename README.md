@@ -25,7 +25,16 @@
 
 <br> <br> <br>
 
-📫 &nbsp;*Get in touch*: <br>
+✏️ &nbsp;*Recent blog post*:
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/0" alt="Recent article #1"></a>
+
+💻 &nbsp;*Community group*:
+<div align="center">
+<a target="_blank" href="https://www.meetup.com/yorkshire-azure-user-group-yag/"><img src="https://secure.meetupstatic.com/photos/event/c/c/3/0/clean_505012272.webp" width="600" height="300"></a>
+</div>
+
+📫 &nbsp;*Get in touch*: <br><br>
 &emsp;&emsp;[<img alt="LinkedIn" width="48px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-1.svg"/>](https://www.linkedin.com/in/ejjones18/)
 [LinkedIn](https://www.linkedin.com/in/ejjones18/)
 &emsp;&emsp;[<img alt="Medium" width="192px" src="https://github.com/Medium/medium-logos/blob/master/01_Logo/02_White/PNG/RGB/Medium-Logo-White-RGB%401x.png"/>](https://medium.com/@ethanj129)
