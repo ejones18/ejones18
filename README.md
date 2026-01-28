@@ -6,7 +6,7 @@
 
 #### Current interests ####
 🔭 &nbsp;*Currently working on*: Leading the Yorkshire Azure User Group, developing content around MLOps maturity on Azure using Azure Machine Learning as well as improving uncertainty and accuracy of machine learning models through methods such as conformal prediction.<br>
-🌱 &nbsp;*Currently learning*: Intergrating productionised machine learning models with agentic solutions using ACA & MCP servers.<br>
+🌱 &nbsp;*Currently learning*: Intergrating productionised machine learning models with agentic solutions across the Azure AI stack using MCP servers.<br>
 <br>
 
 💾 &nbsp;*Languages and Tools*:
