@@ -31,7 +31,7 @@
 
 💻 &nbsp;*Community group*:
 <div align="center">
-<a target="_blank" href="https://www.meetup.com/yorkshire-azure-user-group-yag/"><img src="https://secure.meetupstatic.com/photos/event/c/c/3/0/clean_505012272.webp" width="600" height="300"></a>
+<a target="_blank" href="https://www.meetup.com/yorkshire-azure-user-group-yag/"><img src="https://secure.meetupstatic.com/photos/event/c/c/3/0/clean_505012272.webp" width="600" height="425"></a>
 </div>
 
 📫 &nbsp;*Get in touch*: <br><br>
