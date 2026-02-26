@@ -39,7 +39,3 @@
 [LinkedIn](https://www.linkedin.com/in/ejjones18/)
 &emsp;&emsp;[<img alt="Medium" width="192px" src="https://github.com/Medium/medium-logos/blob/master/01_Logo/02_White/PNG/RGB/Medium-Logo-White-RGB%401x.png"/>](https://medium.com/@ethanj129)
 [Medium](https://medium.com/@ethanj129)
-
-<br>
-
-<div align="center"><img alt="EJones18's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EJones18&count_private=true&show_icons=true&hide_border=true&theme=buefy" /><img alt="EJones18's Github Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EJones18&count_private=true&show_icons=true&hide_border=true&theme=buefy&layout=compact"/></div>
