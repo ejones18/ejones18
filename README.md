@@ -25,9 +25,11 @@
 
 <br> <br> <br>
 
-✏️ &nbsp;*Recent blog post*:
+✏️ &nbsp;*Recent blog posts*:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/0" alt="Recent article #1"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/1" alt="Recent article #2"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/2" alt="Recent article #3"></a>
 
 💻 &nbsp;*Community group*:
 <div align="center">
