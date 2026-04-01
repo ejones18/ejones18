@@ -1,11 +1,11 @@
 <div align="center"><img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2500&h=320&q=80"/></div>
 
-## Hey there, I'm Ethan! 
+## 'Ey up, I'm Ethan! 
 
 ### Here's a little about me and my current work before you dive further into my profile... ##
 
 #### Current interests ####
-🔭 &nbsp;*Currently working on*: Leading the Yorkshire Azure User Group, developing content around MLOps maturity on Azure using Azure Machine Learning as well as improving uncertainty and accuracy of machine learning models through methods such as conformal prediction.<br>
+🔭 &nbsp;*Currently working on*: Leading the Yorkshire Azure User Group, developing industry-specific machine learning samples on Azure using Azure Machine Learning as well as diving into the world of uncertainty and accuracy of machine learning models via methods such as conformal prediction.<br>
 🌱 &nbsp;*Currently learning*: Intergrating productionised machine learning models with agentic solutions across the Azure AI stack using MCP servers.<br>
 <br>
 
