@@ -28,6 +28,10 @@
 ✏️ &nbsp;*Recent blog posts*:
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Azure ML Industry Labs — End-to-End ML Pipelines for Real-World Industry Problems](https://medium.com/@ethanj129/introducing-azure-ml-industry-labs-end-to-end-ml-pipelines-for-real-world-industry-problems-853d0a4ead76?source=rss-7838fd7c68c8------2)
+- [Augmenting agentic solutions with bespoke ML models](https://medium.com/@ethanj129/augmenting-agentic-solutions-with-bespoke-ml-models-89f0b67dad23?source=rss-7838fd7c68c8------2)
+- [Epistemic Uncertainty in Practice: Techniques for More Reliable Machine Learning Models](https://medium.com/@ethanj129/epistemic-uncertainty-in-practice-techniques-for-more-reliable-machine-learning-models-7a1d97c86ed8?source=rss-7838fd7c68c8------2)
+- [Implementing explainable object detection in Python](https://python.plainenglish.io/implementing-explainable-object-detection-in-python-522ef3cfde69?source=rss-7838fd7c68c8------2)
 <!-- BLOG-POST-LIST:END -->
 
 
