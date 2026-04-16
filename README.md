@@ -31,13 +31,11 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/1" alt="Recent article #2"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/2" alt="Recent article #3"></a>
 
-💻 &nbsp;*Community group*:
-<div align="center">
-<a target="_blank" href="https://www.meetup.com/yorkshire-azure-user-group-yag/"><img src="https://secure.meetupstatic.com/photos/event/c/c/3/0/clean_505012272.webp" width="600" height="425"></a>
-</div>
 
-📫 &nbsp;*Get in touch*: <br><br>
-&emsp;&emsp;[<img alt="LinkedIn" width="48px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-1.svg"/>](https://www.linkedin.com/in/ejjones18/)
-[LinkedIn](https://www.linkedin.com/in/ejjones18/)
-&emsp;&emsp;[<img alt="Medium" width="192px" src="https://github.com/Medium/medium-logos/blob/master/01_Logo/02_White/PNG/RGB/Medium-Logo-White-RGB%401x.png"/>](https://medium.com/@ethanj129)
-[Medium](https://medium.com/@ethanj129)
+🚀 &nbsp;*Currently building*:
+
+<div align="center">
+  <a href="https://github.com/Azure-Samples/AzureML_industry_labs">
+    <img width="100%" src="https://opengraph.githubassets.com/1/Azure-Samples/AzureML_industry_labs" />
+  </a>
+</div>
