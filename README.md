@@ -78,16 +78,6 @@ focus:
 
 </div>
 
-<br>
-
-## 📊 GitHub stats
-
-<div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=ejones18&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=100&section=footer"/>
 </div>
