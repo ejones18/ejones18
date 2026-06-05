@@ -21,6 +21,7 @@ focus:
   - Industry-specific ML pipelines on Azure Machine Learning
   - Uncertainty quantification & conformal prediction
   - Integrating productionised ML models with agentic solutions via MCP servers
+  - Researching and developing agentic MLOps
 ```
 
 <br>
