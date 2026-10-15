@@ -72,11 +72,11 @@ focus:
 
 <div align="center">
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/0" alt="Recent article #1" width="75%"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/1" alt="Recent article #2" width="75%"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/2" alt="Recent article #3" width="75%"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/3" alt="Recent article #4" width="75%"></a>
-
+<a target="_blank" href="https://medium.com/@ethanj129/baseline-azure-machine-learning-reference-architecture-cd2b154b2742"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/0?v=20261015-1355" alt="Recent article #1" width="75%"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/1?v=20261015-1355" alt="Recent article #2" width="75%"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/2?v=20261015-1355" alt="Recent article #3" width="75%"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/3?v=20261015-1355" alt="Recent article #4" width="75%"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ethanj129/4?v=20261015-1355" alt="Recent article #5" width="75%"></a>
 </div>
 
 <div align="center">
